@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatiBati/Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatiBati/Node/issues"
+  },
+  "homepage": "https://github.com/BatiBati/Node#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "inquirer": "^12.3.0"
+  }
+}
